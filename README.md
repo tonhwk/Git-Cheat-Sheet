@@ -21,3 +21,9 @@
 - Create and switch to a new branch: `git checkout -b <branch-name>`
 - Merge branches: `git merge <branch-name>`
 
+## Viewing and Undoing Changes
+- View changes: `git diff`
+- Undo unstaged changes: `git checkout -- <file>`
+- Undo last commit (keep changes): `git reset HEAD~`
+- Undo last commit (discard changes): `git reset --hard HEAD~`
+
