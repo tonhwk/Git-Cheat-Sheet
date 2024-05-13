@@ -15,3 +15,9 @@
 - Push changes to remote repository: `git push`
 - Pull changes from remote repository: `git pull`
 
+## Branching and Merging
+- Create a new branch: `git branch <branch-name>`
+- Switch to a branch: `git checkout <branch-name>`
+- Create and switch to a new branch: `git checkout -b <branch-name>`
+- Merge branches: `git merge <branch-name>`
+
