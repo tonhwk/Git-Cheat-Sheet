@@ -27,3 +27,8 @@
 - Undo last commit (keep changes): `git reset HEAD~`
 - Undo last commit (discard changes): `git reset --hard HEAD~`
 
+## Remote Repositories
+- Add a remote repository: `git remote add <remote-name> <repository-url>`
+- View remote repositories: `git remote -v`
+- Remove a remote repository: `git remote rm <remote-name>`
+
